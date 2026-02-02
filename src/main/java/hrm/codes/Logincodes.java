@@ -6,6 +6,8 @@ public class Logincodes {
 		
 		System.out.println("This is logout page code updated");
 		System.out.println("This is logout page code updated new");
+		System.out.println("This is logout page code updated new 2");
+
 
 		
 	}
